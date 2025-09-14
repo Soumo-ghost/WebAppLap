@@ -1,0 +1,18 @@
+*{
+    margin : 2;
+    padding : 2;
+
+}
+body{
+    background-color: #F7F3E3;
+    text-align: center;
+}
+.navbar{
+    background-color:#B3B6B7 ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+
+}
